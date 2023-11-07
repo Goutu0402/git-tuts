@@ -1,0 +1,4 @@
+this is an EXAMPLE 
+types of software testing 
+1. manual testing 
+2.automation testing
