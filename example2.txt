@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello all 
 Notepad
+=======
+welcome to TESTING WORLD
+>>>>>>> origin/master
