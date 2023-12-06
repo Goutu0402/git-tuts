@@ -3,3 +3,5 @@ types of software testing
 1. manual testing 
 2. automation testing
 3. API testing
+4. functional testing
+5. non-functional testing
